@@ -28,7 +28,7 @@
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.int_slider.NAME": "Deslizador entero",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.int_slider.DESCRIPTION": "UIIntSlider solo admite valores int.",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.float_slider.NAME": "Deslizador float",
-  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.float_slider.DESCRIPTION": "UIFloatSlider solo admite float. decimalPlaces controla paso y precision mostrada.",
+  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.float_slider.DESCRIPTION": "UISlider admite float. step controla el incremento real.",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.double_slider.NAME": "Deslizador double generico",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.double_slider.DESCRIPTION": "UISlider puede usarse con int, float, double, decimal y otros tipos numericos.",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.negative_default_zero_slider.NAME": "Deslizador con rango negativo y valor 0",

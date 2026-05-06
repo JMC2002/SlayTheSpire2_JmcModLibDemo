@@ -28,7 +28,7 @@
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.int_slider.NAME": "整数スライダー",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.int_slider.DESCRIPTION": "UIIntSlider は int のみ対応します。",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.float_slider.NAME": "浮動小数スライダー",
-  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.float_slider.DESCRIPTION": "UIFloatSlider は float のみ対応します。decimalPlaces でステップと表示精度を制御します。",
+  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.float_slider.DESCRIPTION": "UISlider は float に対応します。step で実際のステップを制御します。",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.double_slider.NAME": "汎用 double スライダー",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.double_slider.DESCRIPTION": "UISlider は int、float、double、decimal などの数値型に使えます。",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.negative_default_zero_slider.NAME": "負の範囲でデフォルト 0 のスライダー",

@@ -30,7 +30,7 @@
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.int_slider.NAME": "整数滑条",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.int_slider.DESCRIPTION": "UIIntSlider 只支持 int。",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.float_slider.NAME": "浮点滑条",
-  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.float_slider.DESCRIPTION": "UIFloatSlider 只支持 float，decimalPlaces 控制步进和显示精度。",
+  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.float_slider.DESCRIPTION": "UISlider 可用于 float，step 控制实际步进。",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.double_slider.NAME": "通用数字滑条 double",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.double_slider.DESCRIPTION": "UISlider 可用于 int/float/double/decimal 等数字类型。",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.negative_default_zero_slider.NAME": "负数区间默认 0 滑条",

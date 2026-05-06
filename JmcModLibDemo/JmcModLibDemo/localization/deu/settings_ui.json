@@ -28,7 +28,7 @@
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.int_slider.NAME": "Integer-Slider",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.int_slider.DESCRIPTION": "UIIntSlider unterstuetzt nur int-Werte.",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.float_slider.NAME": "Float-Slider",
-  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.float_slider.DESCRIPTION": "UIFloatSlider unterstuetzt nur float. decimalPlaces steuert Schrittweite und AnzeigePraezision.",
+  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.float_slider.DESCRIPTION": "UISlider unterstuetzt float. step steuert die tatsaechliche Schrittweite.",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.double_slider.NAME": "Generischer double-Slider",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.double_slider.DESCRIPTION": "UISlider kann mit int, float, double, decimal und anderen Zahlentypen verwendet werden.",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.negative_default_zero_slider.NAME": "Schieberegler mit negativem Bereich und Standard 0",

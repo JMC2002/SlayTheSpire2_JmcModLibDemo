@@ -28,7 +28,7 @@
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.int_slider.NAME": "สไลเดอร์จำนวนเต็ม",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.int_slider.DESCRIPTION": "UIIntSlider รองรับเฉพาะค่า int",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.float_slider.NAME": "สไลเดอร์ float",
-  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.float_slider.DESCRIPTION": "UIFloatSlider รองรับเฉพาะ float โดย decimalPlaces ควบคุมขั้นและความละเอียดที่แสดง",
+  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.float_slider.DESCRIPTION": "UISlider รองรับ float โดย step ควบคุมขั้นจริง",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.double_slider.NAME": "สไลเดอร์ double ทั่วไป",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.double_slider.DESCRIPTION": "UISlider ใช้ได้กับชนิดตัวเลข เช่น int, float, double และ decimal",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.numeric.negative_default_zero_slider.NAME": "สไลเดอร์ช่วงติดลบค่าเริ่มต้น 0",
