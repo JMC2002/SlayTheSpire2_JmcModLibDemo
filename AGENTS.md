@@ -1,1 +1,0 @@
-C:/Users/JMC/source/repos/STS2/AGENTS.md
