@@ -1,0 +1,11 @@
+{
+  "id": "JmcModLibDemo",
+  "name": "JmcModLibDemo",
+  "author": "JMC",
+  "version": "1.0.9",
+  "description": "JmcModLib 设置 UI 示例 MOD，展示 Attribute 扫描、配置存储、游戏内设置页控件、[gold]富文本 HoverTip[/gold] 与回调用法。",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": ["JmcModLib"],
+  "affects_gameplay": false
+}
