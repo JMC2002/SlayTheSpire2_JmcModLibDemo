@@ -1,0 +1,13 @@
+{
+  "title": "JmcModLibDemo",
+  "description": "JmcModLib settings UI demo mod.",
+  "visibility": "public",
+  "changeNote": "",
+  "tags": [
+    "QoL"
+  ],
+  "dependencies": [
+    3747526103
+  ],
+  "contentDescriptors": []
+}

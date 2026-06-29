@@ -1,6 +1,13 @@
 name: Release Mod
 
 on:
+  workflow_dispatch:
+    inputs:
+      workshop_dry_run:
+        description: Prepare Workshop workspace without uploading.
+        required: false
+        type: boolean
+        default: true
   push:
     tags:
       - 'v*'
@@ -10,4 +17,16 @@ permissions:
 
 jobs:
   release:
+    if: ${{ github.event_name == 'push' }}
     uses: JMC2002/STS2_Mods_Actions/.github/workflows/release-mod.yml@main
+
+  publish-workshop:
+    needs: release
+    if: ${{ always() && (github.event_name == 'workflow_dispatch' || needs.release.result == 'success') }}
+    uses: JMC2002/STS2_Mods_Actions/.github/workflows/publish-workshop.yml@main
+    with:
+      runs_on: '["self-hosted", "Windows", "X64", "steam", "workshop"]'
+      uploader_platform: win-x64
+      version_info_path: Core/VersionInfo.cs
+      mod_path: JmcModLibDemo
+      dry_run: ${{ github.event_name == 'workflow_dispatch' && inputs.workshop_dry_run || false }}
