@@ -89,5 +89,7 @@
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.DESCRIPTION": "Démarre ou arrête la sonde d'entrée de la démo. Après activation, appuyez sur L3/R3 ou d'autres boutons, puis vérifiez si le journal affiche JoypadButton ou des Action du jeu.",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.BUTTON": "Basculer",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.NAME": "Activer la sonde d'entrée",
-  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "Active une sonde d'entrée Demo en arrière-plan et journalise le clavier, les boutons de manette et les Action du jeu pour voir ce qui reste après Steam Input."
+  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "Active une sonde d'entrée Demo en arrière-plan et journalise le clavier, les boutons de manette et les Action du jeu pour voir ce qui reste après Steam Input.",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.attribute_status.TEXT": "Bouton Attribute du menu de pause",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.manual_status.TEXT": "Bouton manuel du menu de pause"
 }

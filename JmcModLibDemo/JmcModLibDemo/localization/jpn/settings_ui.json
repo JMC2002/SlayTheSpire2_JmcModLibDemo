@@ -89,5 +89,7 @@
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.DESCRIPTION": "Demo の入力プローブを開始または停止します。有効化後に L3/R3 や他のボタンを押し、ログに JoypadButton またはゲーム Action が出るか確認します。",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.BUTTON": "切替",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.NAME": "入力プローブを有効化",
-  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "有効にすると Demo の入力プローブをバックグラウンドで追加し、キーボード、コントローラーボタン、ゲーム Action をログに出して Steam Input 後のイベントを確認できます。"
+  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "有効にすると Demo の入力プローブをバックグラウンドで追加し、キーボード、コントローラーボタン、ゲーム Action をログに出して Steam Input 後のイベントを確認できます。",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.attribute_status.TEXT": "ポーズメニュー Attribute ボタン",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.manual_status.TEXT": "ポーズメニュー手動ボタン"
 }

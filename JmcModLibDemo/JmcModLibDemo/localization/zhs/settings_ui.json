@@ -96,5 +96,7 @@
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.DESCRIPTION": "启动或停止 Demo 输入探针。启动后按 L3/R3/其它手柄键，再查看日志里出现的是 JoypadButton 还是游戏 Action。",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.BUTTON": "切换",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.NAME": "启用输入探针",
-  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "开启后会在后台挂载 Demo 输入探针，并把键盘、手柄按钮、游戏 Action 写入日志，方便确认 Steam Input 之后还能看到哪些事件。"
+  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "开启后会在后台挂载 Demo 输入探针，并把键盘、手柄按钮、游戏 Action 写入日志，方便确认 Steam Input 之后还能看到哪些事件。",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.attribute_status.TEXT": "暂停菜单 Attribute 按钮",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.manual_status.TEXT": "暂停菜单手动按钮"
 }

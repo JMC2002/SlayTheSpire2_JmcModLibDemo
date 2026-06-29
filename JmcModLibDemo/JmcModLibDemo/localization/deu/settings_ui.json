@@ -89,5 +89,7 @@
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.DESCRIPTION": "Startet oder stoppt die Demo-Eingabeprobe. Druecke danach L3/R3 oder andere Controller-Tasten und pruefe, ob im Log JoypadButton oder Spiel-Action erscheint.",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.BUTTON": "Umschalten",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.NAME": "Eingabeprobe aktivieren",
-  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "Aktiviert die Demo-Eingabeprobe im Hintergrund und loggt Tastatur, Controller-Tasten und Spiel-Actions, damit sichtbar wird, was nach Steam Input ankommt."
+  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "Aktiviert die Demo-Eingabeprobe im Hintergrund und loggt Tastatur, Controller-Tasten und Spiel-Actions, damit sichtbar wird, was nach Steam Input ankommt.",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.attribute_status.TEXT": "Pause-Menü Attribute-Button",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.manual_status.TEXT": "Pause-Menü manueller Button"
 }

@@ -96,5 +96,7 @@
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.DESCRIPTION": "Start or stop the Demo input probe. After enabling it, press L3/R3 or other controller buttons, then check whether the log shows JoypadButton or game Action events.",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.BUTTON": "Toggle",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.NAME": "Enable input probe",
-  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "When enabled, the Demo input probe is mounted in the background and logs keyboard, controller button, and game Action events so you can inspect what remains after Steam Input."
+  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "When enabled, the Demo input probe is mounted in the background and logs keyboard, controller button, and game Action events so you can inspect what remains after Steam Input.",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.attribute_status.TEXT": "Pause menu Attribute button",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.manual_status.TEXT": "Pause menu manual button"
 }

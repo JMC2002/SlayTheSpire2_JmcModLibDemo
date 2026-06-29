@@ -74,7 +74,3 @@ JmcModLib 设置 UI 示例 MOD。
 - 补充更多 JmcModLib 示例场景
 
 **如果你喜欢这个 Mod 的话，希望可以点一个star~**
-
-如果你真的很有钱，可以考虑给我赞助，给我赞助你得不到任何东西，但是可以吓我一跳。
-
-![图片描述](pic/wechat_qrcode.png)

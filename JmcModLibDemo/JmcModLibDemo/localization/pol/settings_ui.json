@@ -89,5 +89,7 @@
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.DESCRIPTION": "Uruchamia lub zatrzymuje sonde wejscia demo. Po wlaczeniu nacisnij L3/R3 lub inne przyciski i sprawdz, czy log pokazuje JoypadButton czy Action gry.",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.BUTTON": "Przelacz",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.NAME": "Włącz sondę wejścia",
-  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "Po włączeniu sonda Demo działa w tle i zapisuje klawiaturę, przyciski pada oraz Action gry, aby sprawdzić, co zostaje po Steam Input."
+  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "Po włączeniu sonda Demo działa w tle i zapisuje klawiaturę, przyciski pada oraz Action gry, aby sprawdzić, co zostaje po Steam Input.",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.attribute_status.TEXT": "Przycisk Attribute menu pauzy",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.manual_status.TEXT": "Ręczny przycisk menu pauzy"
 }

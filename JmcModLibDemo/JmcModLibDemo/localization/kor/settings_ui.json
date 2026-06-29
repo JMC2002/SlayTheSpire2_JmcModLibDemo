@@ -89,5 +89,7 @@
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.DESCRIPTION": "Demo 입력 탐지기를 시작하거나 중지합니다. 켠 뒤 L3/R3 또는 다른 버튼을 누르고 로그에 JoypadButton 또는 게임 Action 이 나오는지 확인하세요.",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.BUTTON": "전환",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.NAME": "입력 탐지기 활성화",
-  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "켜면 Demo 입력 탐지기를 백그라운드에 붙이고 키보드, 컨트롤러 버튼, 게임 Action 이벤트를 로그로 남겨 Steam Input 이후 남는 이벤트를 확인합니다."
+  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "켜면 Demo 입력 탐지기를 백그라운드에 붙이고 키보드, 컨트롤러 버튼, 게임 Action 이벤트를 로그로 남겨 Steam Input 이후 남는 이벤트를 확인합니다.",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.attribute_status.TEXT": "일시정지 메뉴 Attribute 버튼",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.manual_status.TEXT": "일시정지 메뉴 수동 버튼"
 }

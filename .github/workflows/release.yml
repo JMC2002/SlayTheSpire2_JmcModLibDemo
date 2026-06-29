@@ -20,6 +20,16 @@ jobs:
     if: ${{ github.event_name == 'push' }}
     uses: JMC2002/STS2_Mods_Actions/.github/workflows/release-mod.yml@main
 
+  publish-quark:
+    needs: release
+    if: ${{ github.event_name == 'push' && needs.release.result == 'success' }}
+    uses: JMC2002/STS2_Mods_Actions/.github/workflows/publish-quark.yml@main
+    with:
+      version_info_path: Core/VersionInfo.cs
+      mod_path: JmcModLibDemo
+    secrets:
+      quark_cookie: ${{ secrets.QUARK_COOKIE }}
+
   publish-workshop:
     needs: release
     if: ${{ always() && (github.event_name == 'workflow_dispatch' || needs.release.result == 'success') }}

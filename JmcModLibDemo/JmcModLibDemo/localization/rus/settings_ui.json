@@ -89,5 +89,7 @@
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.DESCRIPTION": "Запускает или останавливает пробник ввода Demo. После включения нажмите L3/R3 или другие кнопки и проверьте, пишет ли журнал JoypadButton или Action игры.",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.BUTTON": "Перекл.",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.NAME": "Включить пробник ввода",
-  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "При включении пробник Demo работает в фоне и пишет в журнал клавиатуру, кнопки геймпада и Action игры, чтобы проверить события после Steam Input."
+  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "При включении пробник Demo работает в фоне и пишет в журнал клавиатуру, кнопки геймпада и Action игры, чтобы проверить события после Steam Input.",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.attribute_status.TEXT": "Кнопка Attribute в меню паузы",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.manual_status.TEXT": "Ручная кнопка меню паузы"
 }

@@ -89,5 +89,7 @@
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.DESCRIPTION": "Avvia o ferma la sonda input della demo. Dopo l'attivazione, premi L3/R3 o altri pulsanti e controlla se il log mostra JoypadButton o Action del gioco.",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.BUTTON": "Attiva",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.NAME": "Abilita sonda input",
-  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "Quando attiva, la sonda input Demo viene montata in background e registra tastiera, pulsanti controller e Action del gioco per verificare cosa resta dopo Steam Input."
+  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "Quando attiva, la sonda input Demo viene montata in background e registra tastiera, pulsanti controller e Action del gioco per verificare cosa resta dopo Steam Input.",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.attribute_status.TEXT": "Pulsante Attribute del menu di pausa",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.manual_status.TEXT": "Pulsante manuale del menu di pausa"
 }

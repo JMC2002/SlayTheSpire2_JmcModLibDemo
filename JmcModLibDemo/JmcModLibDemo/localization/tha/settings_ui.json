@@ -89,5 +89,7 @@
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.DESCRIPTION": "เริ่มหรือหยุดตัวตรวจอินพุตของ Demo หลังเปิดแล้วให้กด L3/R3 หรือปุ่มอื่น จากนั้นดูใน log ว่าขึ้น JoypadButton หรือ Action ของเกม",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.BUTTON": "สลับ",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.NAME": "เปิดตัวตรวจอินพุต",
-  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "เมื่อเปิด จะติดตั้งตัวตรวจอินพุต Demo ไว้เบื้องหลัง และบันทึกคีย์บอร์ด ปุ่มคอนโทรลเลอร์ และ Action ของเกม เพื่อดูว่ายังเหลือเหตุการณ์ใดหลัง Steam Input"
+  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "เมื่อเปิด จะติดตั้งตัวตรวจอินพุต Demo ไว้เบื้องหลัง และบันทึกคีย์บอร์ด ปุ่มคอนโทรลเลอร์ และ Action ของเกม เพื่อดูว่ายังเหลือเหตุการณ์ใดหลัง Steam Input",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.attribute_status.TEXT": "ปุ่ม Attribute ในเมนูหยุดพัก",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.manual_status.TEXT": "ปุ่มเมนูหยุดพักแบบลงทะเบียนเอง"
 }

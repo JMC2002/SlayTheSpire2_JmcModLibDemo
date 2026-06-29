@@ -89,5 +89,7 @@
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.DESCRIPTION": "Demo giriş izleyicisini başlatır veya durdurur. Açtıktan sonra L3/R3 ya da diğer düğmelere basın ve logda JoypadButton mı yoksa oyun Action mı göründüğünü kontrol edin.",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.button.input_probe_toggle.BUTTON": "Değiştir",
   "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.NAME": "Giriş izleyiciyi etkinleştir",
-  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "Etkinleştirildiğinde Demo giriş izleyici arka planda eklenir; klavye, kontrolcü düğmeleri ve oyun Action olaylarını loglayarak Steam Input sonrasında ne geldiğini gösterir."
+  "EXTENSION.JMCMODLIB.CONFIG.JmcModLibDemo.debug.input_probe_enabled.DESCRIPTION": "Etkinleştirildiğinde Demo giriş izleyici arka planda eklenir; klavye, kontrolcü düğmeleri ve oyun Action olaylarını loglayarak Steam Input sonrasında ne geldiğini gösterir.",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.attribute_status.TEXT": "Duraklatma menüsü Attribute düğmesi",
+  "EXTENSION.JMCMODLIB.PAUSE_MENU.JmcModLibDemo.manual_status.TEXT": "Duraklatma menüsü elle kayıt düğmesi"
 }

@@ -1,5 +1,6 @@
 using Godot;
 using HarmonyLib;
+using JmcModLib.UI.PauseMenu;
 using JmcModLibDemo.Core;
 using JmcModLib.Utils;
 using MegaCrit.Sts2.Core.Modding;
@@ -23,6 +24,15 @@ public partial class MainFile : Node
                 storageKey: "button.manual",
                 helpText: "这个按钮用 RegisterButton 手动注册，用来展示非 Attribute 注册入口也能进入设置 UI。",
                 order: 5)
+            .RegisterPauseMenuButton(
+                key: DemoPauseMenuButtons.ManualButtonKey,
+                text: "暂停菜单手动按钮",
+                action: DemoPauseMenuButtons.RunManualPauseMenuButton,
+                order: 20,
+                anchor: PauseMenuButtonAnchor.BeforeExitActions,
+                locTable: DemoPauseMenuButtons.LocTable,
+                textKey: DemoPauseMenuButtons.ManualButtonTextKey,
+                enabledWhen: DemoPauseMenuButtons.CanUseManualPauseMenuButton)
             .Done();
 
         Harmony harmony = new(ModVersionInfo.Name);
