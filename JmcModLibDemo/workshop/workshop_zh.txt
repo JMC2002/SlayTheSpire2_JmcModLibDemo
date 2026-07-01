@@ -1,3 +1,3 @@
 JmcModLib 设置 UI 示例 MOD，展示 Attribute 扫描、配置存储、游戏内设置页控件、[gold]富文本 HoverTip[/gold] 与回调用法。
 
-[url=https://github.com/JMC2002/SlayTheSpire2_JmcModLibDemo]Github 仓库[/url]
+[url=https://github.com/JMC-Mods/SlayTheSpire2_JmcModLibDemo]Github 仓库[/url]

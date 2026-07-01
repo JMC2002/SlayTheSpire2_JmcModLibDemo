@@ -1,3 +1,3 @@
 JmcModLib settings UI demo mod. It demonstrates attribute scanning, config persistence, in-game settings page controls, [gold]rich-text HoverTip[/gold], and callback usage.
 
-[url=https://github.com/JMC2002/SlayTheSpire2_JmcModLibDemo]GitHub repository[/url]
+[url=https://github.com/JMC-Mods/SlayTheSpire2_JmcModLibDemo]GitHub repository[/url]

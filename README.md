@@ -2,15 +2,15 @@
   <a href="README.md"><img alt="中文" src=".github/badges/language-zh.svg"></a>
   <a href="README_en.md"><img alt="English" src=".github/badges/language-en.svg"></a>
   <a href="CHANGELOG.md"><img alt="更新日志" src=".github/badges/changelog-zh.svg"></a>
-  <a href="https://github.com/JMC2002/SlayTheSpire2_JmcModLibDemo/releases"><img alt="Releases" src=".github/badges/releases.svg"></a>
+  <a href="https://github.com/JMC-Mods/SlayTheSpire2_JmcModLibDemo/releases"><img alt="Releases" src=".github/badges/releases.svg"></a>
 <!-- code-stats:start -->
-  <a href="https://github.com/JMC2002/SlayTheSpire2_JmcModLibDemo/actions/workflows/code-lines.yml"><img alt="JSON 行数" src=".github/badges/code-lines-json.svg"></a>
-  <a href="https://github.com/JMC2002/SlayTheSpire2_JmcModLibDemo/actions/workflows/code-lines.yml"><img alt="C# 行数" src=".github/badges/code-lines-csharp.svg"></a>
-  <a href="https://github.com/JMC2002/SlayTheSpire2_JmcModLibDemo/actions/workflows/code-lines.yml"><img alt="MSBuild script 行数" src=".github/badges/code-lines-msbuild-script.svg"></a>
-  <a href="https://github.com/JMC2002/SlayTheSpire2_JmcModLibDemo/actions/workflows/code-lines.yml"><img alt="YAML 行数" src=".github/badges/code-lines-yaml.svg"></a>
-  <a href="https://github.com/JMC2002/SlayTheSpire2_JmcModLibDemo/actions/workflows/code-lines.yml"><img alt="总代码行数" src=".github/badges/code-lines-total.svg"></a>
-  <a href="https://github.com/JMC2002/SlayTheSpire2_JmcModLibDemo/actions/workflows/code-lines.yml"><img alt="累计新增行数" src=".github/badges/code-lines-added.svg"></a>
-  <a href="https://github.com/JMC2002/SlayTheSpire2_JmcModLibDemo/actions/workflows/code-lines.yml"><img alt="累计删除行数" src=".github/badges/code-lines-deleted.svg"></a>
+  <a href="https://github.com/JMC-Mods/SlayTheSpire2_JmcModLibDemo/actions/workflows/code-lines.yml"><img alt="JSON 行数" src=".github/badges/code-lines-json.svg"></a>
+  <a href="https://github.com/JMC-Mods/SlayTheSpire2_JmcModLibDemo/actions/workflows/code-lines.yml"><img alt="C# 行数" src=".github/badges/code-lines-csharp.svg"></a>
+  <a href="https://github.com/JMC-Mods/SlayTheSpire2_JmcModLibDemo/actions/workflows/code-lines.yml"><img alt="MSBuild script 行数" src=".github/badges/code-lines-msbuild-script.svg"></a>
+  <a href="https://github.com/JMC-Mods/SlayTheSpire2_JmcModLibDemo/actions/workflows/code-lines.yml"><img alt="YAML 行数" src=".github/badges/code-lines-yaml.svg"></a>
+  <a href="https://github.com/JMC-Mods/SlayTheSpire2_JmcModLibDemo/actions/workflows/code-lines.yml"><img alt="总代码行数" src=".github/badges/code-lines-total.svg"></a>
+  <a href="https://github.com/JMC-Mods/SlayTheSpire2_JmcModLibDemo/actions/workflows/code-lines.yml"><img alt="累计新增行数" src=".github/badges/code-lines-added.svg"></a>
+  <a href="https://github.com/JMC-Mods/SlayTheSpire2_JmcModLibDemo/actions/workflows/code-lines.yml"><img alt="累计删除行数" src=".github/badges/code-lines-deleted.svg"></a>
 <!-- code-stats:end -->
 </p>
 
@@ -20,7 +20,7 @@
 ### Mod本体安装
 Steam版本直接在创意工坊订阅即可（暂未开放）
 
-其他版本可以自行编译，或者在[📦 Releases](https://github.com/JMC2002/SlayTheSpire2_JmcModLibDemo/releases)界面下载.zip后解压到游戏安装目录下的Mods
+其他版本可以自行编译，或者在[📦 Releases](https://github.com/JMC-Mods/SlayTheSpire2_JmcModLibDemo/releases)界面下载.zip后解压到游戏安装目录下的Mods
 目录下（没有就新建一个）
 
 ### 前置安装
@@ -52,7 +52,7 @@ JmcModLib 设置 UI 示例 MOD。
 
 [演示视频（B站）](待定)
 
-[Github仓库](https://github.com/JMC2002/SlayTheSpire2_JmcModLibDemo)
+[Github仓库](https://github.com/JMC-Mods/SlayTheSpire2_JmcModLibDemo)
 ## ⚙️ 2. 功能
 - [Config] + [UIToggle]
 - [Config] + [UIInput]
